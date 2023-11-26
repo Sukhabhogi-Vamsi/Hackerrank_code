@@ -1,6 +1,10 @@
 #Nesting
 capitals = {
     "France" : "Paris",
+    "Germany": "Berlin1234567890",
+    ##For testing purpose
+    "Australia":"Sydney",
+    "Italy":"Rome",
     "Germany": "Berlin",
     "india": "Delhi",
     "Test":"Test1",
