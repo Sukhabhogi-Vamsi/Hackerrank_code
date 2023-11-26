@@ -1,7 +1,10 @@
 #Nesting
 capitals = {
     "France" : "Paris",
-    "Germany": "Berlin",
+    "Germany": "Berlin1234567890",
+    ##For testing purpose
+    "Australia":"Sydney",
+    "Italy":"Rome",
 }
 
 #Nesting a list in a dictionary
