@@ -5,6 +5,10 @@ capitals = {
     ##For testing purpose
     "Australia":"Sydney",
     "Italy":"Rome",
+    "Germany": "Berlin",
+    "india": "Delhi",
+    "Test":"Test1",
+    "Test2":"Test3",
 }
 
 #Nesting a list in a dictionary
