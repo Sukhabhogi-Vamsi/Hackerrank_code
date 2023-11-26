@@ -11,7 +11,7 @@ class Student:
         return cls.school
     @staticmethod
     def info():
-        print("Hi, This is Vamsi")
+        print("Welcome")
 s1 = Student(34,47,32)
 s2 = Student(89,32,12)
 print(s1.avg())
